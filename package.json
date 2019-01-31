@@ -1,0 +1,24 @@
+{
+  "name": "group-app-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18978909244/group-app-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18978909244/group-app-demo/issues"
+  },
+  "homepage": "https://github.com/18978909244/group-app-demo#readme",
+  "dependencies": {
+    "koa-router": "^7.4.0",
+    "koa2": "^2.0.0-alpha.7"
+  }
+}
