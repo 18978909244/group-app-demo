@@ -5,7 +5,7 @@ module.exports = [
         port:3000
     },
     {
-        hostname:'nadal',
+        hostname:'yyqx',
         title:'易烊千玺',
         port:3001
     }
