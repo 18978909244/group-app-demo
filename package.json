@@ -19,6 +19,7 @@
   "homepage": "https://github.com/18978909244/group-app-demo#readme",
   "dependencies": {
     "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
     "koa2": "^2.0.0-alpha.7"
   }
 }
